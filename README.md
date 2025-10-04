@@ -46,7 +46,7 @@ The analysis was built and visualized using **Power BI**.
 ## 📂 Repository Structure
 📂 Dataset
 📂 Screenshots
-📄 Data_Cleaning_Project_Nashville .pbix
+📄 Data Professional Survey project.pbix
 📄 README.md
 
 ---
