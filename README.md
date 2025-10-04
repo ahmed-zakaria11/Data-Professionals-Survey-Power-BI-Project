@@ -28,16 +28,18 @@ The analysis was built and visualized using **Power BI**.
    - Handled categorical responses for consistency  
 
 2. **Power BI Visualizations**  
-   - **Demographics Overview:** Age, gender, education, and country distribution  
+   - **Demographics Overview:** Age, gender and country distribution  
    - **Career Path Analysis:** Career switch into data, job roles, and industries  
-   - **Salary Insights:** Salary by role, industry, and education  
-   - **Satisfaction Metrics:** Ratings for salary, work-life balance, management, coworkers, learning, and career mobility  
+   - **Salary Insights:** Salary by role, industry, age and education  
+   - **Satisfaction Metrics:** Ratings for salary, work-life balance and career mobility  
    - **Programming Language Preferences**  
    - **Job Priorities:** What professionals value most when seeking a new role  
 
 3. **Dashboard Design**  
-   - Interactive dashboard with filters and slicers  
-   - Clear visual storytelling (salary vs satisfaction, demographics vs roles, etc.)  
+   - Interactive dashboard with slicers for filtering across demographics and job roles
+   - Visuals include average salary by job title and gender, favorite programming languages, country distribution, and career entry difficulty
+   - KPIs highlight survey count, average age, and satisfaction levels (salary, work-life balance and mobility)
+   - Clear visual storytelling (salary vs education, salary vs industry, etc.)  
 
 ---
 
