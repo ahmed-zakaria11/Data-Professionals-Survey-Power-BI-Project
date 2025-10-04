@@ -49,8 +49,8 @@ The analysis was built and visualized using **Power BI**.
 ---
 
 ## 📸 Screenshots
-_Add key dashboard screenshots here (e.g., salary insights, satisfaction ratings, demographics view)._  
 
+![Dashboard](Screenshots/Overview.PNG)
 ---
 
 ## 📌 Key Insights
