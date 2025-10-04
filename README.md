@@ -55,7 +55,7 @@ _Add key dashboard screenshots here (e.g., salary insights, satisfaction ratings
 - **Data Scientists** earn the highest average salary.  
 - **Python** is the most popular programming language in the data profession.  
 - **Work-life balance** (5.74/10) rating is higher than **satisfaction with salary** (4.27/10).   
-- **Salary** emerges as the top priority when considering new roles.  
+- **Better Salary** emerges as the top priority when considering new roles.  
 
 ---
 
