@@ -48,9 +48,10 @@ The analysis was built and visualized using **Power BI**.
 
 ---
 
-## 📸 Screenshots
+## 📸 Dashboard
 
 ![Dashboard](Screenshots/Overview.PNG)
+![Extra](Screenshots/extra.PNG)
 ---
 
 ## 📌 Key Insights
